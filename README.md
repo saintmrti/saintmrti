@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Saint</h1>
-<h3 align="center">A passionate frontend developer from Mexico</h3>
+<h3 align="center">A passionate front-end developer from Mexico specializing in creating and designing wonderful digital experiences. Currently, I focus on creating responsive web applications.</h3>
 
 - 📫 How to reach me **saint-martin_10@hotmail.com**
 
