@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Saint</h1>
 <h3 align="center">A passionate front-end developer from Mexico specializing in creating and designing wonderful digital experiences. Currently, I focus on creating responsive web applications.</h3>
 
-- 👨‍💻 All of my projects are available at: **https://saintmrti.com**
+- 👨‍💻 All of my projects are available at: <a target="_blank">**https://saintmrti.com**</a>
 - 📄 Know about my experiences: **https://drive.google.com/file/d/1Z5XvwB-8H208EO6T168EGyeLNNN3dGrj/view?usp=sharing**
 - 📫 How to reach me **saint-martin_10@hotmail.com**
 
