@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Saint</h1>
 <h3 align="center">A passionate full stack developer and Electronic Instrumentation Engineer from Mexico specializing in creating and designing wonderful digital experiences. Currently, I focus on creating responsive web applications.</h3>
 
-- 🌱 I’m currently learning **MySQL**
+- 🌱 I’m currently learning **ASP.Net**
 
 - 👨‍💻 All of my projects are available at [https://saintmrti.com](https://saintmrti.com)
 
