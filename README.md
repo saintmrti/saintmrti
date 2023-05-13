@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Saint</h1>
-<h3 align="center">A passionate front-end developer and Electronic Instrumentation Engineer from Mexico specializing in creating and designing wonderful digital experiences. Currently, I focus on creating responsive web applications.</h3>
+<h3 align="center">A passionate full stack developer and Electronic Instrumentation Engineer from Mexico specializing in creating and designing wonderful digital experiences. Currently, I focus on creating responsive web applications.</h3>
 
 - 🌱 I’m currently learning **MySQL**
 
